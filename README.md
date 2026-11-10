@@ -5,7 +5,7 @@
 8 years in brand, PR and growth, from Vogue and luxury agency work (UNIQLO, FARFETCH, adidas, Dyson) to scaling an AdTech brand across MENA, Europe, LATAM and APAC. I don't just use AI tools. I build and ship my own pipelines and agents, then put them to work on real growth targets.
 
 **What I build**
-- 🤖 **Personal AI assistant**: a Telegram bot on Claude that turns voice notes (Whisper) into plans, reads Gmail and Calendar, and tracks goals, food and training
+- 🤖 **[Personal AI assistant](https://github.com/elina-zubova/telegram-ai-assistant)**: a Telegram bot on Claude that turns voice notes (Whisper) into plans, reads Gmail and Calendar, and tracks goals, food and training
 - ✍️ **Content pipeline**: SEO/AEO articles in 7 languages with auto-distribution to social
 - 🎬 **Reels pipeline**: trend radar → scripts → publishing calendar (Apify + Claude)
 - 📊 **Analytics agents**: weekly market and content radar with Slack digests for the team

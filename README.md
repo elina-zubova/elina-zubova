@@ -6,6 +6,7 @@
 
 **What I build**
 - 🤖 **[Personal AI assistant](https://github.com/elina-zubova/telegram-ai-assistant)**: a Telegram bot on Claude that turns voice notes (Whisper) into plans, reads Gmail and Calendar, and tracks goals, food and training
+- 👗 **[AI stylist](https://github.com/elina-zubova/ai-stylist)**: my real wardrobe of 180 pieces, cut out locally with macOS Vision and dressed by Claude to a three-word style system
 - ✍️ **Content pipeline**: SEO/AEO articles in 7 languages with auto-distribution to social
 - 🎬 **Reels pipeline**: trend radar → scripts → publishing calendar (Apify + Claude)
 - 📊 **Analytics agents**: weekly market and content radar with Slack digests for the team
